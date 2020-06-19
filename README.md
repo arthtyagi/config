@@ -5,7 +5,12 @@ It's all zsh% here :)
 Update June 2020 :
 It's a shame if you didn't notice the use of bash in the description and then the line 'it's all zsh% here'. Anyway, I'm adding the zsh profile too. 
 
+1. .vimrc
 ![image](https://user-images.githubusercontent.com/41021374/84348571-e4e64700-abd2-11ea-9184-85d74ba5c5d6.png)
+
+2. tmux + .zshrc
+
+
 
 ### How do I use this?
 
