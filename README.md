@@ -9,6 +9,7 @@ It's a shame if you didn't notice the use of bash in the description and then th
 ![image](https://user-images.githubusercontent.com/41021374/84348571-e4e64700-abd2-11ea-9184-85d74ba5c5d6.png)
 
 2. tmux + .zshrc
+<img width="1004" alt="ss" src="https://user-images.githubusercontent.com/41021374/85195969-8583e780-b2f4-11ea-9a92-f58bf24163da.png">
 
 
 
